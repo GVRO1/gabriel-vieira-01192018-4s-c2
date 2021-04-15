@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Continuada 2</string>
+    <string name="deu_ruim">Deu ruim... Nenhum cachorro encontrado com os ids %1$s e $2%s</string>
+    <string name="tituloMain">Digite 2 Tipos de cachorros</string>
+    <string name="tipo1">1º Tipo</string>
+    <string name="tipo2">2º Tipo</string>
+    <string name="btnComprar">Comprar Cachorros</string>
+    <string name="cachorro1">Cachorro 1: %1$s</string>
+    <string name="cachorro2">Cachorro 2: %1$s</string>
+    <string name="total">Preço total de compra: R$ %1$d</string>
+    <string name="cachorroNaoEncontrado">(não encontrado)</string>
+    <string name="amigavel">Indicado para Crianças?</string>
+</resources>
